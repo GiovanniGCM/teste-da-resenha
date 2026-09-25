@@ -1,0 +1,11 @@
+body {
+
+
+    p{
+
+
+        text-shadow: tomato; text-size-adjust: inherit; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+        font-style: oblique; font-weight: 400; font-display: fallback; text-decoration: aquamarine; text-overflow: ellipsis; font-weight: bolder;
+    }
+    
+}
